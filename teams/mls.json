@@ -1,0 +1,178 @@
+{
+    "response": [
+    {    
+    "team": {
+    "id": 1595,
+    "name": "Seattle Sounders",
+    "logo": "https://media.api-sports.io/football/teams/1595.png"
+    }},{
+    
+    "team": {
+    "id": 1596,
+    "name": "San Jose Earthquakes",
+    "logo": "https://media.api-sports.io/football/teams/1596.png"
+    }},{
+    
+    "team": {
+    "id": 1597,
+    "name": "FC Dallas",
+    "logo": "https://media.api-sports.io/football/teams/1597.png"
+    }},{
+    
+    "team": {
+    "id": 1598,
+    "name": "Orlando City SC",
+    "logo": "https://media.api-sports.io/football/teams/1598.png"
+    }},{
+    
+    "team": {
+    "id": 1599,
+    "name": "Philadelphia Union",
+    "logo": "https://media.api-sports.io/football/teams/1599.png"
+    }},{
+    
+    "team": {
+    "id": 1600,
+    "name": "Houston Dynamo",
+    "logo": "https://media.api-sports.io/football/teams/1600.png"
+    }},{
+    
+    "team": {
+    "id": 1601,
+    "name": "Toronto FC",
+    "logo": "https://media.api-sports.io/football/teams/1601.png"
+    }},{
+    
+    "team": {
+    "id": 1602,
+    "name": "New York Red Bulls",
+    "logo": "https://media.api-sports.io/football/teams/1602.png"
+    }},{
+    
+    "team": {
+    "id": 1603,
+    "name": "Vancouver Whitecaps",
+    "logo": "https://media.api-sports.io/football/teams/1603.png"
+    }},{
+    
+    "team": {
+    "id": 1604,
+    "name": "New York City FC",
+    "logo": "https://media.api-sports.io/football/teams/1604.png"
+    }},{
+    
+    "team": {
+    "id": 1605,
+    "name": "Los Angeles Galaxy",
+    "logo": "https://media.api-sports.io/football/teams/1605.png"
+    }},{
+    
+    "team": {
+    "id": 1606,
+    "name": "Real Salt Lake",
+    "logo": "https://media.api-sports.io/football/teams/1606.png"
+    }},{
+    
+    "team": {
+    "id": 1607,
+    "name": "Chicago Fire",
+    "logo": "https://media.api-sports.io/football/teams/1607.png"
+    }},{
+    
+    "team": {
+    "id": 1608,
+    "name": "Atlanta United FC",
+    "logo": "https://media.api-sports.io/football/teams/1608.png"
+    }},{
+    
+    "team": {
+    "id": 1609,
+    "name": "New England Revolution",
+    "logo": "https://media.api-sports.io/football/teams/1609.png"
+    }},{
+    
+    "team": {
+    "id": 1610,
+    "name": "Colorado Rapids",
+    "logo": "https://media.api-sports.io/football/teams/1610.png"
+    }},{
+    
+    "team": {
+    "id": 1611,
+    "name": "Sporting Kansas City",
+    "logo": "https://media.api-sports.io/football/teams/1611.png"
+    }},{
+    
+    "team": {
+    "id": 1612,
+    "name": "Minnesota United FC",
+    "logo": "https://media.api-sports.io/football/teams/1612.png"
+    }},{
+    
+    "team": {
+    "id": 1613,
+    "name": "Columbus Crew",
+    "logo": "https://media.api-sports.io/football/teams/1613.png"
+    }},{
+    
+    "team": {
+    "id": 1614,
+    "name": "CF Montreal",
+    "logo": "https://media.api-sports.io/football/teams/1614.png"
+    }},{
+    
+    "team": {
+    "id": 1615,
+    "name": "DC United",
+    "logo": "https://media.api-sports.io/football/teams/1615.png"
+    }},{
+    
+    "team": {
+    "id": 1616,
+    "name": "Los Angeles FC",
+    "logo": "https://media.api-sports.io/football/teams/1616.png"
+    }},{
+    
+    "team": {
+    "id": 1617,
+    "name": "Portland Timbers",
+    "logo": "https://media.api-sports.io/football/teams/1617.png"
+    }},{
+    
+    "team": {
+    "id": 2242,
+    "name": "FC Cincinnati",
+    "logo": "https://media.api-sports.io/football/teams/2242.png"
+    }},{
+    
+    "team": {
+    "id": 9568,
+    "name": "Inter Miami",
+    "logo": "https://media.api-sports.io/football/teams/9568.png"
+    }},{
+    
+    "team": {
+    "id": 9569,
+    "name": "Nashville SC",
+    "logo": "https://media.api-sports.io/football/teams/9569.png"
+    }},{
+    
+    "team": {
+    "id": 16489,
+    "name": "Austin",
+    "logo": "https://media.api-sports.io/football/teams/16489.png"
+    }},{
+    
+    "team": {
+    "id": 18310,
+    "name": "Charlotte",
+    "logo": "https://media.api-sports.io/football/teams/18310.png"
+    }},{
+    
+    "team": {
+    "id": 20787,
+    "name": "St. Louis City",
+    "logo": "https://media.api-sports.io/football/teams/20787.png"
+    }}
+    ]
+}

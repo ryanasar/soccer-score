@@ -1,0 +1,172 @@
+{
+    "response": [
+    {
+        "team": {
+        "id": 193,
+        "name": "PEC Zwolle",
+        "logo": "https://media.api-sports.io/football/teams/193.png"
+        }
+    },
+    {
+        "team": {
+        "id": 194,
+        "name": "Ajax",
+        "logo": "https://media.api-sports.io/football/teams/194.png"
+        }
+    },
+    {
+        "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+        }
+    },
+        {
+        "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/197.png"
+        }
+    },
+        {
+        "team": {
+        "id": 198,
+        "name": "ADO Den Haag",
+        "logo": "https://media.api-sports.io/football/teams/198.png"
+        }
+    },
+        {
+        "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+        }
+    },
+        {
+        "team": {
+        "id": 200,
+        "name": "Vitesse",
+        "logo": "https://media.api-sports.io/football/teams/200.png"
+        }
+    },
+        {
+        "team": {
+        "id": 201,
+        "name": "AZ Alkmaar",
+        "logo": "https://media.api-sports.io/football/teams/201.png"
+        }
+    },
+        {
+        "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+        }
+    },
+        {
+        "team": {
+        "id": 205,
+        "name": "Fortuna Sittard",
+        "logo": "https://media.api-sports.io/football/teams/205.png"
+        }
+    },
+        {
+        "team": {
+        "id": 206,
+        "name": "Heracles",
+        "logo": "https://media.api-sports.io/football/teams/206.png"
+        }
+    },
+        {
+        "team": {
+        "id": 207,
+        "name": "Utrecht",
+        "logo": "https://media.api-sports.io/football/teams/207.png"
+        }
+    },
+        {
+        "team": {
+        "id": 208,
+        "name": "Emmen",
+        "logo": "https://media.api-sports.io/football/teams/208.png"
+        }
+    },
+        {
+        "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media.api-sports.io/football/teams/209.png"
+        }
+    },
+        {
+        "team": {
+        "id": 210,
+        "name": "Heerenveen",
+        "logo": "https://media.api-sports.io/football/teams/210.png"
+        }
+    },
+        {
+        "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+        }
+    },
+        {
+        "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+        }
+    },
+        {
+        "team": {
+        "id": 413,
+        "name": "NEC Nijmegen",
+        "logo": "https://media.api-sports.io/football/teams/413.png"
+        }
+    },
+        {
+        "team": {
+        "id": 414,
+        "name": "Roda",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+        }
+    },
+        {
+        "team": {
+        "id": 415,
+        "name": "Twente",
+        "logo": "https://media.api-sports.io/football/teams/415.png"
+        }
+    },
+        {
+        "team": {
+        "id": 416,
+        "name": "FC Volendam",
+        "logo": "https://media.api-sports.io/football/teams/416.png"
+        }
+    },
+        {
+        "team": {
+        "id": 417,
+        "name": "Waalwijk",
+        "logo": "https://media.api-sports.io/football/teams/417.png"
+        }
+    },
+        {
+        "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+        }
+    },
+        {
+        "team": {
+        "id": 426,
+        "name": "Sparta Rotterdam",
+        "logo": "https://media.api-sports.io/football/teams/426.png"
+        }
+    }
+    ]
+}
