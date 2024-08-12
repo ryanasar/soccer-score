@@ -1,0 +1,64 @@
+{
+    "get": "leagues",
+    "parameters": {
+      "id": "39"
+    },
+    "response": [
+      {
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "logo": "https://media.api-sports.io/football/leagues/39.png"
+        }
+      },
+      {
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "logo": "https://media.api-sports.io/football/leagues/61.png"
+        }
+      },
+      {
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "logo": "https://media.api-sports.io/football/leagues/135.png"
+        }
+      },
+      {
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "logo": "https://media.api-sports.io/football/leagues/78.png"
+        }
+      },
+      {
+        "league": {
+          "id": 94,
+          "name": "Premeira Liga",
+          "logo": "https://media.api-sports.io/football/leagues/94.png"
+        }
+      },
+      {
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "logo": "https://media.api-sports.io/football/leagues/140.png"
+        }
+      },
+      {
+        "league": {
+          "id": 88,
+          "name": "Eredivisie",
+          "logo": "https://media.api-sports.io/football/leagues/88.png"
+        }
+      },
+      {
+        "league": {
+          "id": 253,
+          "name": "MLS",
+          "logo": "https://media.api-sports.io/football/leagues/253.png"
+        }
+      }
+    ]
+  }

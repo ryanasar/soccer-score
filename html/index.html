@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" style="width: 500px; height: 500px;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoccerApp</title>
+    <link rel="stylesheet" href="/css/main.css">
+    <style> body{margin: 0};</style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body style="background-color: #EDF2F4;">
+    <div id="startMenu" class="startMenu" style="display: none;">
+        <h2 style="color: #EF233C; text-align: center; font-size: 40px; font-family: Inter">Welcome to SoccerApp!</h2>
+        <p style="color: #333333; text-align: center; font-size: 20px; padding: 10px; font-family: Inter">View live scores, upcoming and past fixtures, and a variety of statistics. Click below to get started by following 
+            your favorite teams, leagues, and players.</p>
+        <button type="button" id="startBtn" class="button startButton">Get Started</button>
+    </div>
+
+    <div id="leagueSelection" class="leagueSelection" style="display: none;">
+        <header id="leagueSelectionHeader" class="selectionHeader leagueSelectionHeader">Select teams/leagues to follow:</header>
+        <main id="leagueBoxes" style="padding: 10px; overflow-y: scroll; height: 360px;">
+            <div class="button-container"></div>
+        </main>
+        <footer style="height: 10px;">
+            <button type="button" id="nextBtn" class="button nextButton">Next</button>
+        </footer>
+    </div>
+
+    <div id="touramentSelection" class="leagueSelection" style="display: none;">
+        <header id="leagueSelectionHeader" class="selectionHeader leagueSelectionHeader">Select competitions to follow:</header>
+        <main id="tournamentBoxes" style="padding: 10px; overflow-y: scroll; height: 360px;">
+            <div class="button-container"></div>
+        </main>  
+        <footer style="height: 10px;">
+            <button type="button" id="nextBtn" class="button nextButton">Next</button>
+        </footer>
+    </div>
+
+    <div id="homePage" class="homePage" style="display: none;">
+        <header class="homeHeader"></header>
+        <header id="scheduleHeader"></header>
+        <main id="tournamentBoxes" style="padding: 10px; overflow-y: scroll; height: 360px;">
+            
+        </main>  
+        <footer style="height: 10px;">
+            
+        </footer>
+    </div>
+    <script type="text/javascript" src="../js/content.js" ></script>
+    <script type="text/javascript" src="../js/config.js" ></script>
+    <script type="text/javascript" src="../js/data_factory.js" ></script>
+    <script type="text/javascript" src="../js/content.js" ></script>
+</body>
+</html>

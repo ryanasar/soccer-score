@@ -1,0 +1,11 @@
+{
+    "name": "Scores App",
+    "version": "1.0.0",
+    "description": "live soccer scores",
+    "manifest_version": 3,
+    "author": "Ryan Asar",
+    "action":{
+        "default_popup": "/html/index.html",
+        "default_title": "All Game Scores"
+    }
+}
